@@ -21,5 +21,6 @@ function draw()
 
 function song_name()
 {
-    song.play();
+    song1.play();
+    song2.play();
 }
